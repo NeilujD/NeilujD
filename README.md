@@ -25,7 +25,7 @@
 </div>
 
 <h3 align="left" style="margin-top:10px;">Languages and Tools:</h3>
-<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;margin:10px 0;">
+<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;margin:10px 0;justify-content:space-between">
   <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
     <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
   </a>
@@ -138,14 +138,8 @@
   </a>
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilujd&show_icons=true&locale=en&layout=compact" alt="neilujd"/></p>
-
-<p>
-  &nbsp;
+<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;margin:20px 0;justify-content:space-between;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilujd&show_icons=true&locale=en&layout=compact" alt="neilujd"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=neilujd&show_icons=true&locale=en" alt="neilujd"/>
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neilujd&" alt="neilujd"/>
-</p>
+</div>
