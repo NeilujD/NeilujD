@@ -18,14 +18,14 @@
 - ⚡ Fun fact **I love science methodology and everything that can be related to it.**
 
 <h3 align="left">Connect with me:</h3>
-<div style="flex-direction:row;display:flex;align-items: center;">
+<div style="flex-direction:row;display:flex;align-items:center;">
 <a href="https://twitter.com/neilujdralloc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neilujdralloc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julien-collard-50915146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julien-collard-50915146/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/neilujd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="neilujd" height="30" width="40" /></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;">
+<h3 align="left" style="margin-top:10px;">Languages and Tools:</h3>
+<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;margin:10px 0;">
   <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
     <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
   </a>
