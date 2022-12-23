@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love science methodology and everything that can be related to it.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="margin-top:20px;">Connect with me:</h3>
 <div style="flex-direction:row;display:flex;align-items:center;">
 <a href="https://twitter.com/neilujdralloc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neilujdralloc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julien-collard-50915146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julien-collard-50915146/" height="30" width="40" /></a>
