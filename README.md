@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate fullstack developer and recently team lead from France</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=neilujd&label=Profile%20views&color=0e75b6&style=flat" alt="neilujd"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=neilujd&label=Profile%20views&color=0e75b6&style=flat" alt="neilujd"/></p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neilujd" alt="neilujd"/></a></p>
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!--<p align="left">-->
-<div>
+<div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;">
   <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
     <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
   </a>
