@@ -25,7 +25,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<!--<p align="left">-->
 <div style="flex-direction:row;display:flex;align-items:center;flex-wrap:wrap;">
   <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
     <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
@@ -137,7 +136,6 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
-<!--</p>-->
 </div>
 
 <p>
